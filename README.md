@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Mobile-CRM-App/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-CRM-App?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Mobile-CRM-App/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Mobile-CRM-App?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Mobile-CRM-App/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Mobile-CRM-App?style=social" alt="GitHub forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Mobile-CRM-App/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2077?label=Follow" /></a>
@@ -62,9 +62,9 @@ The table below lists leading commercial Mobile CRM solutions, ranked by corpora
 
 ## 🔓 Open-Source GitHub Projects
 
-Discover top self-hosted, customizable, and community-driven mobile CRM applications. Repositories are ranked by their **GitHub star count** descending:
+Discover top self-hosted, customizable, and community-driven mobile CRM applications. Repositories are ranked by their **GitHub Stars_Count** descending:
 
-| 💻 Repository | 🌟 Stars | 📜 License | 💡 Overview & Mobile Capabilities |
+| 💻 Repository | 🌟 GitHub_Stars | 📜 License | 💡 Overview & Mobile Capabilities |
 | :--- | :---: | :---: | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | Modern open-source CRM alternative to Salesforce with GraphQL APIs, offline caching, and native cross-platform mobile companions. |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Comprehensive enterprise ERP/CRM suite with official Android and iOS apps supporting offline access, barcode/business card scanning, and push alerts. |
