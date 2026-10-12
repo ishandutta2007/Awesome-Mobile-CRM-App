@@ -62,7 +62,7 @@ The table below lists leading commercial Mobile CRM solutions, ranked by corpora
 
 ## 🔓 Open-Source GitHub Projects
 
-Discover top self-hosted, customizable, and community-driven mobile CRM applications. Repositories are ranked by their **GitHub Stars_Count** descending:
+Discover top self-hosted, customizable, and community-driven mobile CRM applications. Repositories are ranked by their **GitHub_Stars_Count** descending:
 
 | 💻 Repository | 🌟 GitHub_Stars | 📜 License | 💡 Overview & Mobile Capabilities |
 | :--- | :---: | :---: | :--- |
